@@ -1,0 +1,5 @@
+# Ignore personal or scratch scripts by naming convention
+*.local.py
+*.local.sh
+*.local.js
+*.me
